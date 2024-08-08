@@ -199,19 +199,22 @@ cmd({
     // The voice note URL
     const voiceUrl = "https://github.com/mmmm6644556/VOICE-CLIP-/raw/main/VOICE/Very%20Sad%20Painful%20Ringtone%20New%20Turkish%20Arabic%20Sad%20Ringtone%202023%20Very%20Emotional%20Music%20Ringtone%20Arabic.mp3";
 
-    // Sending the custom message, image, and WhatsApp link together
+    // Sending the custom message and image
     await message.reply(
       `${customMessage} ${waLink}`,
       { image: { url: imageUrl } }
     );
 
-    // Sending the voice note
-    await message.reply({ audio: { url: voiceUrl }, mimetype: 'audio/mp3' });
+    // Sending the voice note after a slight delay
+    setTimeout(async () => {
+      await message.reply({ audio: { url: voiceUrl }, mimetype: 'audio/mp3' });
+    }, 1000); // Adjust the delay as needed
 
   } catch (error) {
     console.error(error);
   }
 });
+
 
 
 
