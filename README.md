@@ -33,8 +33,12 @@
 
 ## DEPLOY RENDER
 # <a href="https://dashboard.render.com/web/new"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=red&style=for-the-badge&logo=msi"></a>
-
-<br><br>
+<pre>
+<code id="code-block">
+𝗥𝗖𝗗 𝗠𝗗 𝗥𝗘𝗣𝗢 𝗟𝗜𝗡𝗞 𝗖𝗢𝗣𝗬
+</code>
+</pre>
+<button onclick="copyToClipboard()">https://github.com/DEXTER-BOTS/RCD-MD</button>
  **Enter Environment Variables:**
    ```sh
    SESSION_ID=SESSION ID 
