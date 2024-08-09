@@ -1,99 +1,168 @@
-///❮RCD MD NEW SCRIPT❯
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function _0x19d0(_0x49ce7b,_0x2a429c){const _0x360653=_0x3606();return _0x19d0=function(_0x19d009,_0x1a21a2){_0x19d009=_0x19d009-0x87;let _0x562903=_0x360653[_0x19d009];return _0x562903;},_0x19d0(_0x49ce7b,_0x2a429c);}function _0x3606(){const _0x31a945=['../lib','┏﹝\x20*','usage','1753162vdzJto','join','╰═══════════════⊷','floor','Help\x20list','\x20*ʀᴀᴍ\x20ᴜsᴀɢᴇ:*\x20','push','map','\x20*ᴅᴀᴛᴇ:*\x20','8271224zrZmGr','find','42906zaZtjX','To\x20show\x20all\x20available\x20commands.','1780YYwGPh','includes','│\x20│','pattern','toLowerCase','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20┌┤✑\x20\x20Thanks\x20for\x20Choosing\x20RCD-MD\x20👍\x0a\x0a│└────────────┈\x20⳹\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x0a│*©2024\x20RCD\x20*\x0a\x0a└─────────────────┈\x20⳹\x0a\x0a\x20\x20\x0a','menu1','menu2','\x20*ᴅᴀᴛᴀʙᴀsᴇ:*\x20','dontAddCommandList','whatsapp_channel','5259CzPQQK','botname','reply','https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u/161','ownername','uptime','*💁Description:*\x20','youtube_channel','╭〘\x20\x20','\x0a└═════════════〤','┌═[\x20*','date','length','error','sendUi','¤│▸','┗═════════════〤','\x20*ᴛɪᴍᴇ:*\x20','*\x20﹞','9lHidTi','\x0a│╰══════════···▸▸','menu','\x0a\x0a\x20\x20','*〽️Usage:*\x0a\x20```','┃\x20✗','time','\x20*ᴄᴏᴍᴍᴀɴᴅs:*\x20','╰════════════···▸','desc','\x0aCommand:\x20menu','category','1eEtMjV','```','startsWith','65VmEnIA','https://www.youtube.com/@Dextertoola999','\x20*ᴏᴡɴᴇʀ:*\x20','alias','6202040dSIRzT','*\x20]','\x20*ᴜsᴀɢᴇ\x20ᴛʀᴇɴᴅ:*\x20','¤│▸\x20','12069351wEwxJw','split','*🔉Command:*\x20','11331144JyJoxc','chat','╭─❏','trim','caption'];_0x3606=function(){return _0x31a945;};return _0x3606();}const _0x20724a=_0x19d0;(function(_0x36cc04,_0xee17d0){const _0x11bb19=_0x19d0,_0x20e5ae=_0x36cc04();while(!![]){try{const _0x29dea2=-parseInt(_0x11bb19(0xcc))/0x1*(parseInt(_0x11bb19(0x95))/0x2)+-parseInt(_0x11bb19(0xad))/0x3*(-parseInt(_0x11bb19(0xa2))/0x4)+parseInt(_0x11bb19(0xcf))/0x5*(-parseInt(_0x11bb19(0xa0))/0x6)+parseInt(_0x11bb19(0x8a))/0x7+parseInt(_0x11bb19(0x9e))/0x8*(-parseInt(_0x11bb19(0xc0))/0x9)+-parseInt(_0x11bb19(0xd3))/0xa+parseInt(_0x11bb19(0x8d))/0xb;if(_0x29dea2===_0xee17d0)break;else _0x20e5ae['push'](_0x20e5ae['shift']());}catch(_0x417d99){_0x20e5ae['push'](_0x20e5ae['shift']());}}}(_0x3606,0xde58b),astro_patch['smd']({'cmdname':[_0x20724a(0xc2),'panel'],'desc':_0x20724a(0x99),'react':'📍','desc':_0x20724a(0xa1),'type':'user','filename':__filename},async(_0x129e75,_0x28c220)=>{const _0x1659ae=_0x20724a;try{const {commands:_0x466489}=require(_0x1659ae(0x92));if(_0x28c220[_0x1659ae(0x8b)]('\x20')[0x0]){let _0x1c705a=[];const _0x19f6c1=_0x466489[_0x1659ae(0x9f)](_0x33e213=>_0x33e213[_0x1659ae(0xa5)]===_0x28c220[_0x1659ae(0x8b)]('\x20')[0x0][_0x1659ae(0xa6)]());_0x19f6c1&&(_0x1c705a[_0x1659ae(0x9b)](_0x1659ae(0x8c)+_0x19f6c1[_0x1659ae(0xa5)]),_0x19f6c1[_0x1659ae(0xcb)]&&_0x1c705a['push']('*💁Category:*\x20'+_0x19f6c1[_0x1659ae(0xcb)]),_0x19f6c1[_0x1659ae(0xd2)]&&_0x19f6c1['alias'][0x0]&&_0x1c705a['push']('*💁Alias:*\x20'+_0x19f6c1['alias'][_0x1659ae(0x96)](',\x20')),_0x19f6c1[_0x1659ae(0xc9)]&&_0x1c705a[_0x1659ae(0x9b)](_0x1659ae(0xb3)+_0x19f6c1[_0x1659ae(0xc9)]),_0x19f6c1['use']&&_0x1c705a[_0x1659ae(0x9b)](_0x1659ae(0xc4)+prefix+_0x19f6c1[_0x1659ae(0xa5)]+'\x20'+_0x19f6c1['use']+_0x1659ae(0xcd)),_0x19f6c1[_0x1659ae(0x94)]&&_0x1c705a[_0x1659ae(0x9b)](_0x1659ae(0xc4)+_0x19f6c1[_0x1659ae(0x94)]+_0x1659ae(0xcd)),await _0x129e75[_0x1659ae(0xaf)](_0x1c705a['join']('\x0a')));}let _0x542f1c,_0x30d7b6,_0x115170,_0x361d54,_0x1af712,_0x122600,_0x3b61b9;Config[_0x1659ae(0xc2)]===''&&(_0x542f1c=Math[_0x1659ae(0x98)](Math['random']()*0x4)+0x1);if(_0x542f1c===0x1||Config[_0x1659ae(0xc2)][_0x1659ae(0x90)]()[_0x1659ae(0xce)]('1')||Config[_0x1659ae(0xc2)][_0x1659ae(0xa6)]()[_0x1659ae(0xa3)](_0x1659ae(0xa8)))_0x30d7b6=_0x1659ae(0x93)+Config['botname']+_0x1659ae(0xbf),_0x122600=_0x1659ae(0xc5),_0x115170=_0x1659ae(0xbd),_0x361d54='┌『',_0x1af712='』',_0x122600='\x20|\x20',_0x3b61b9=_0x1659ae(0xb6);else _0x542f1c===0x2||Config['menu'][_0x1659ae(0x90)]()[_0x1659ae(0xce)]('2')||Config[_0x1659ae(0xc2)][_0x1659ae(0xa6)]()[_0x1659ae(0xa3)](_0x1659ae(0xa9))?(_0x30d7b6=_0x1659ae(0xb7)+Config[_0x1659ae(0xae)]+_0x1659ae(0x87),_0x122600=_0x1659ae(0xbc),_0x115170=_0x1659ae(0xc8),_0x361d54='┌〈',_0x1af712='〉',_0x122600=_0x1659ae(0x89),_0x3b61b9=_0x1659ae(0xc1)):(_0x30d7b6=_0x1659ae(0xb5)+Config[_0x1659ae(0xae)]+'\x20\x20〙',_0x122600=_0x1659ae(0xa4),_0x115170=_0x1659ae(0x97),_0x361d54=_0x1659ae(0x8f),_0x1af712='❏',_0x122600='│',_0x3b61b9='╰════════════─⊷');const _0xe0c5bf={};_0x466489[_0x1659ae(0x9c)](async(_0x55f27c,_0x515e9d)=>{const _0x3b621b=_0x1659ae;_0x55f27c[_0x3b621b(0xab)]===![]&&_0x55f27c[_0x3b621b(0xa5)]!==undefined&&(!_0xe0c5bf[_0x55f27c[_0x3b621b(0xcb)]]&&(_0xe0c5bf[_0x55f27c[_0x3b621b(0xcb)]]=[]),_0xe0c5bf[_0x55f27c[_0x3b621b(0xcb)]][_0x3b621b(0x9b)](_0x55f27c[_0x3b621b(0xa5)]));});const _0x3a462a=_0x129e75[_0x1659ae(0xc6)],_0x177980=_0x129e75[_0x1659ae(0xb8)];let _0x88adad=_0x1659ae(0xc3)+_0x30d7b6+'\x0a\x0a\x20\x20'+_0x122600+_0x1659ae(0xd1)+Config[_0x1659ae(0xb1)]+_0x1659ae(0xc3)+_0x122600+'\x20*ᴜᴘᴛɪᴍᴇ:*\x20'+runtime(process[_0x1659ae(0xb2)]())+_0x1659ae(0xc3)+_0x122600+_0x1659ae(0x9a)+formatp(os['totalmem']()-os['freemem']())+'\x0a\x0a\x20\x20'+_0x122600+_0x1659ae(0xbe)+_0x3a462a+_0x1659ae(0xc3)+_0x122600+_0x1659ae(0x9d)+_0x177980+'\x0a\x0a\x20\x20'+_0x122600+_0x1659ae(0xc7)+_0x466489[_0x1659ae(0xb9)]+'\x0a\x0a\x20\x20'+_0x122600+_0x1659ae(0x88)+trend_usage+_0x1659ae(0xc3)+_0x122600+_0x1659ae(0xaa)+database_info+_0x1659ae(0xc3)+_0x115170+_0x1659ae(0xa7)+readmore+'\x0a';for(const _0x39c363 in _0xe0c5bf){_0x88adad+=_0x361d54+'\x20*'+tiny(_0x39c363)+'*\x20'+_0x1af712+'\x0a';if(_0x28c220[_0x1659ae(0xa6)]()===_0x39c363[_0x1659ae(0xa6)]()){_0x88adad=_0x361d54+'\x20*'+tiny(_0x39c363)+'*\x20'+_0x1af712+'\x0a';for(const _0x3bc713 of _0xe0c5bf[_0x39c363]){_0x88adad+=_0x122600+'\x20'+fancytext(_0x3bc713,0x1)+'\x0a';}_0x88adad+=_0x3b61b9+'\x0a';break;}else{for(const _0x581bf2 of _0xe0c5bf[_0x39c363]){_0x88adad+=_0x122600+'\x20'+fancytext(_0x581bf2,0x1)+'\x0a';}_0x88adad+=_0x3b61b9+'\x0a';}}_0x88adad+=Config[_0x1659ae(0x91)];const _0x478e0b={'caption':_0x88adad,'ephemeralExpiration':0xbb8,'buttons':[{'buttonId':_0x1659ae(0xac),'buttonText':{'displayText':'WhatsApp\x20Channel'},'type':0x1,'url':_0x1659ae(0xb0)},{'buttonId':_0x1659ae(0xb4),'buttonText':{'displayText':'YouTube\x20Channel'},'type':0x1,'url':_0x1659ae(0xd0)}],'footer':'Click\x20a\x20button\x20to\x20visit\x20a\x20channel!'};return await _0x129e75[_0x1659ae(0xbb)](_0x129e75[_0x1659ae(0x8e)],_0x478e0b,_0x129e75);}catch(_0x4ab5dc){await _0x129e75[_0x1659ae(0xba)](_0x4ab5dc+_0x1659ae(0xca),_0x4ab5dc);}}));
+astro_patch.smd(
+  {
+    cmdname: ["menu", "panel"],
+    desc: "Help list",
+    react: "📍",
+    desc: "To show all available commands.",
+    type: "user",
+    filename: __filename,
+  },
+  async (message, input) => {
+    try {
+      const { commands } = require("../lib");
+      if (input.split(" ")[0]) {
+        let commandDetails = [];
+        const foundCommand = commands.find(
+          (cmd) => cmd.pattern === input.split(" ")[0].toLowerCase(),
+        );
+        if (foundCommand) {
+          commandDetails.push("*🔉Command:* " + foundCommand.pattern);
+          if (foundCommand.category) {
+            commandDetails.push("*💁Category:* " + foundCommand.category);
+          }
+          if (foundCommand.alias && foundCommand.alias[0]) {
+            commandDetails.push("*💁Alias:* " + foundCommand.alias.join(", "));
+          }
+          if (foundCommand.desc) {
+            commandDetails.push("*💁Description:* " + foundCommand.desc);
+          }
+          if (foundCommand.use) {
+            commandDetails.push(
+              "*〽️Usage:*\n ```" +
+                prefix +
+                foundCommand.pattern +
+                " " +
+                foundCommand.use +
+                "```",
+            );
+          }
+          if (foundCommand.usage) {
+            commandDetails.push(
+              "*〽️Usage:*\n ```" + foundCommand.usage + "```",
+            );
+          }
+          await message.reply(commandDetails.join("\n"));
+        }
+      }
+
+      let menuThemeType;
+      let menuThemeHeader;
+      let menuThemeFooter;
+      let menuThemeCategoryHeader;
+      let menuThemeCategoryFooter;
+      let menuThemeCommandPrefix;
+      let menuThemeCommandFooter;
+
+      if (Config.menu === "") {
+        menuThemeType = Math.floor(Math.random() * 4) + 1;
+      }
+
+      if (
+        menuThemeType === 1 ||
+        Config.menu.trim().startsWith("1") ||
+        Config.menu.toLowerCase().includes("menu1")
+      ) {
+        menuThemeHeader = "┏﹝ *" + Config.botname + "* ﹞";
+        menuThemeCommandPrefix = "┃ ✗";
+        menuThemeFooter = "┗═════════════〤";
+        menuThemeCategoryHeader = "┌『";
+        menuThemeCategoryFooter = "』";
+        menuThemeCommandPrefix = " | ";
+        menuThemeCommandFooter = "\n└═════════════〤";
+      } else if (
+        menuThemeType === 2 ||
+        Config.menu.trim().startsWith("2") ||
+        Config.menu.toLowerCase().includes("menu2")
+      ) {
+        menuThemeHeader = "┌═[ *" + Config.botname + "* ]";
+        menuThemeCommandPrefix = "¤│▸";
+        menuThemeFooter = "╰════════════···▸";
+        menuThemeCategoryHeader = "┌〈";
+        menuThemeCategoryFooter = "〉";
+        menuThemeCommandPrefix = "¤│▸ ";
+        menuThemeCommandFooter = "\n│╰══════════···▸▸";
+      } else {
+        menuThemeHeader = "╭〘  " + Config.botname + "  〙";
+        menuThemeCommandPrefix = "│ │";
+        menuThemeFooter = "╰═══════════════⊷";
+        menuThemeCategoryHeader = "╭─❏";
+        menuThemeCategoryFooter = "❏";
+        menuThemeCommandPrefix = "│";
+        menuThemeCommandFooter = "╰════════════─⊷";
+      }
+
+      const categorizedCommands = {};
+      commands.map(async (command, index) => {
+        if (
+          command.dontAddCommandList === false &&
+          command.pattern !== undefined
+        ) {
+          if (!categorizedCommands[command.category]) {
+            categorizedCommands[command.category] = [];
+          }
+          categorizedCommands[command.category].push(command.pattern);
+        }
+      });
+
+      const currentTime = message.time;
+      const currentDate = message.date;
+      let menuText = `
+  ${menuThemeHeader}
+  ${menuThemeCommandPrefix} *ᴏᴡɴᴇʀ:* ${Config.ownername}
+  ${menuThemeCommandPrefix} *ᴜᴘᴛɪᴍᴇ:* ${runtime(process.uptime())}
+  ${menuThemeCommandPrefix} *ʀᴀᴍ ᴜsᴀɢᴇ:* ${formatp(os.totalmem() - os.freemem())}
+  ${menuThemeCommandPrefix} *ᴛɪᴍᴇ:* ${currentTime}
+  ${menuThemeCommandPrefix} *ᴅᴀᴛᴇ:* ${currentDate}
+  ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
+  ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
+  ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
+  ${menuThemeFooter}\n                   ┌┤✑  Thanks for Choosing RCD-MD 👍
+│└────────────┈ ⳹        
+│*©2024 RCD *
+└─────────────────┈ ⳹
+  \n${readmore}\n`;
+
+      for (const category in categorizedCommands) {
+        menuText += `${menuThemeCategoryHeader} *${tiny(category)}* ${menuThemeCategoryFooter}\n`;
+        if (input.toLowerCase() === category.toLowerCase()) {
+          menuText = `${menuThemeCategoryHeader} *${tiny(category)}* ${menuThemeCategoryFooter}\n`;
+          for (const command of categorizedCommands[category]) {
+            menuText += `${menuThemeCommandPrefix} ${fancytext(command, 1)}\n`;
+          }
+          menuText += `${menuThemeCommandFooter}\n`;
+          break;
+        } else {
+          for (const command of categorizedCommands[category]) {
+            menuText += `${menuThemeCommandPrefix} ${fancytext(command, 1)}\n`;
+          }
+          menuText += `${menuThemeCommandFooter}\n`;
+        }
+      }
+      menuText += Config.caption;
+
+      const messageOptions = {
+        caption: menuText,
+        ephemeralExpiration: 3000,
+        buttons: [
+          {
+            buttonId: 'whatsapp_channel',
+            buttonText: { displayText: 'Visit WhatsApp Channel' },
+            type: 1,
+            url: 'https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u/161', 
+          },
+          {
+            buttonId: 'youtube_channel',
+            buttonText: { displayText: 'Visit YouTube Channel' },
+            type: 1,
+            url: 'https://www.youtube.com/@Dextertoola999', 
+          },
+        ],
+        footer: 'Click a button to visit a channel!',
+      };
+
+      return await message.sendUi(message.chat, messageOptions, message);
+    } catch (error) {
+      await message.error(error + "\nCommand: menu", error);
+    }
+  },
+);
