@@ -29,7 +29,7 @@
 
 <a href="https://pair-code-load.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/DEXTER-BOTS/STATUS-SENDER)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/DEXTER-BOTS/RCD-MD)
 
 ## DEPLOY RENDER
 # <a href="https://dashboard.render.com/web/new"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=red&style=for-the-badge&logo=msi"></a>
